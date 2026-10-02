@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "slug": "new-coordinator",
+  "version": "0.1.15",
+  "package_url": "https://raw.githubusercontent.com/shiburnit-engine/new-coordinator-releases/main/releases/0.1.15/new-coordinator-0.1.15.zip",
+  "package_sha256": "4bd4691aea35219b5b38e137ea75c53ded8f3bf788143e601e9f13086e0fa782",
+  "requires": "6.6",
+  "requires_php": "8.1",
+  "tested": "7.1",
+  "published_at": "2026-10-02T01:33:36Z",
+  "signature": "Uw+E/ouNj7ohDWosn42jPa0tw8oDOl4AmeNP1snU8gQdKEwG80KzYDcepZe/ZH50hTF3pOPUMHgBBpNS8t7XBg=="
+}
